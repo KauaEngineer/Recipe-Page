@@ -50,3 +50,10 @@ p{
 li{
 padding: 5px;
 }
+footer{
+    text-align: center;
+    margin-top: 24px;
+margin-bottom: 48px;
+    color: #F0E8C2;
+    font-size: 20px;
+}
